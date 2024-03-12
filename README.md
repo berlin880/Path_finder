@@ -54,7 +54,7 @@ Credits:
     The A* pathfinding algorithm implementation is based on the work of many contributors in the field of computer science.
     Pygame and Tkinter libraries are developed by their respective contributors.
 
-Author:
+# Author:
 
 This pathfinding visualizer is authored and maintained by Abdelrahman Adel. Feel free to reach out with any questions or feedback.
 
