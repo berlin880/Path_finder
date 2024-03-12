@@ -43,7 +43,7 @@ Features:
 
     Close the Pygame window to exit the program.
 
-Contributing:
+# Contributing:
 
 Contributions to this repository are welcome. If you have any improvements, bug fixes, or feature requests, feel free to submit a pull request.
 License:
